@@ -1,0 +1,56 @@
+PRATHEESH KUMAR V
+UI & Frontend Developer
+Kanyakumari, Tamil Nadu
+Phone: (+91) 9047534179
+Email: pratheeshkumarvijayan@gmail.com
+GitHub: https://github.com/PRATHEESHKUMAR1997
+LinkedIn: https://www.linkedin.com/in/pratheesh-kumar-1905b02b5
+
+PROFESSIONAL SUMMARY
+Energetic Software Engineer with over 6 years of experience specializing in Front-End and UI Development for industrial and enterprise applications. Expert in building complex user interfaces for Sales Force Automation (SFA) and IIOT monitoring systems. Strong track record of collaborating with backend teams to integrate high-performance UIs with C# APIs. Skilled in translating business requirements into responsive, user-friendly applications across Web, Mobile, and Industrial platforms.
+
+TECHNICAL SKILLS
+• EXTJS 5+
+• WordPress
+• HTML5, CSS3, SASS
+• Bootstrap (3+)
+• JavaScript, jQuery
+• Angular 8+, React JS
+• Flutter, KIVY (Python UI)
+• Figma
+• MySQL, SQL Server
+• Responsive Web Application development
+
+EMPLOYMENT HISTORY
+Sterison Technologies Private Limited | Senior Programmer Analyst
+October 2019 – December 2025
+
+Proxima SFA (SaaS Model)
+- Developed Flutter mobile app and Ext JS web application for multi-tenant SFA platform.
+- Implemented modules for order booking, payment collection, customer management, and real-time dashboards.
+- Managed app builds, testing, and deployment to Google Play Store.
+- Integrated frontends with C# backend APIs and implemented reusable UI components.
+
+Enterprise SFA Model
+- Built Angular 8 mobile app with offline-first functionality (SQLite) and Ext JS admin web app for centralized management.
+- Integrated with C# APIs for secure data handling.
+
+IIOT & Industrial Automation
+- Developed real-time Ext JS dashboards for PLC and sensor data.
+- Designed touch-friendly HMI using KIVY on Raspberry Pi.
+- Configured Node-RED gateways for PLC data processing.
+
+Website Development
+- Designed responsive business websites using WordPress, HTML, CSS, JS, and Bootstrap.
+- Implemented Razorpay payment integration and UI/UX customizations.
+
+EDUCATION
+B.Sc. in Information Technologies — Lekshmipuram College of Arts and Science
+12th — Government Higher Secondary School, Kannattuvilai
+10th — Government Higher Secondary School, Kannattuvilai
+
+DECLARATION
+I hereby declare that all the information mentioned above is true and correct to the best of my knowledge and belief.
+
+DATE:
+PLACE: PRATHEESH KUMAR V

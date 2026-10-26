@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Your Name — Web Developer</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container header-inner">
+        <div class="profile">
+          <div class="avatar" aria-hidden="true">PK</div>
+          <div>
+            <h1 class="name">PRATHEESH KUMAR V</h1>
+            <p class="role">UI &amp; Frontend Developer — 6 years</p>
+            <p class="contact-small">Kanyakumari, Tamil Nadu • +91 90475 34179 • <a href="mailto:pratheeshkumarvijayan@gmail.com">pratheeshkumarvijayan@gmail.com</a></p>
+            <p class="contact-small"><a href="https://github.com/PRATHEESHKUMAR1997" target="_blank">GitHub</a> • <a href="https://www.linkedin.com/in/pratheesh-kumar-1905b02b5" target="_blank">LinkedIn</a></p>
+          </div>
+        </div>
+        <div class="controls">
+          <button id="themeToggle" aria-label="Toggle theme">Toggle Theme</button>
+        </div>
+      </div>
+    </header>
+
+    <main class="container main-grid">
+      <section class="about card">
+        <h2>About</h2>
+        <p>Energetic Software Engineer with over 6 years of experience specializing in Front-End and UI Development for industrial and enterprise applications. Experienced in building complex user interfaces for Sales Force Automation (SFA) and IIoT monitoring systems. Strong at collaborating with backend teams to integrate high-performance UIs with C# APIs and translating business requirements into responsive, user-friendly applications across Web, Mobile, and Industrial platforms.</p>
+      </section>
+
+      <section class="skills card">
+        <h2>Skills</h2>
+        <ul class="skill-list">
+          <li>EXTJS 5+</li>
+          <li>WordPress</li>
+          <li>HTML5 / CSS3 / SASS</li>
+          <li>Bootstrap (3+)</li>
+          <li>JavaScript (ES6+), jQuery</li>
+          <li>Angular 8+, React JS</li>
+          <li>Flutter, KIVY (Python UI)</li>
+          <li>Figma (design)</li>
+          <li>MySQL, SQL Server</li>
+          <li>Responsive &amp; Accessible UI</li>
+        </ul>
+      </section>
+
+      <section class="experience card">
+        <h2>Experience</h2>
+        <h3>Sterison Technologies Private Limited — Senior Programmer Analyst</h3>
+        <p class="muted">October 2019 – December 2025</p>
+        <ul>
+          <li>Proxima SFA (SaaS): Developed Flutter mobile app (multi-tenant) and Ext JS back-office web app for order booking, payment collection, customer management and real-time sales dashboards; managed builds and Play Store deployments.</li>
+          <li>Enterprise SFA: Built Angular 8 mobile app with offline-first functionality (SQLite) and Ext JS admin web app; integrated frontends with C# backend APIs.</li>
+          <li>IIoT &amp; Industrial Automation: Implemented real-time Ext JS dashboards for PLC/sensor data; built touch-friendly HMI using KIVY and Raspberry Pi; configured Node-RED gateways for PLC data ingestion.</li>
+          <li>Website Development: Designed responsive websites using WordPress, HTML, CSS, JS, Bootstrap; implemented Razorpay integrations and customized UI/UX for responsiveness.</li>
+        </ul>
+      </section>
+
+      <section class="projects card">
+        <h2>Selected Projects</h2>
+        <article class="project-item">
+          <h3>Proxima SFA — Multi-tenant SaaS</h3>
+          <p>Flutter mobile app for field users and Ext JS admin web application for back-office operations. Features: order booking, payments, customer management, real-time dashboards, and multi-tenant configuration. Integrated with C# APIs.</p>
+        </article>
+        <article class="project-item">
+          <h3>Enterprise SFA</h3>
+          <p>Angular 8 mobile app with offline-first capabilities (SQLite) and Ext JS admin portal for enterprise sales teams. Focused on performance, usability, and secure API integrations.</p>
+        </article>
+        <article class="project-item">
+          <h3>IIoT Monitoring &amp; HMI</h3>
+          <p>Real-time Ext JS dashboards for PLC/sensor visualization; KIVY-based HMI on Raspberry Pi for operator interfaces; Node-RED gateway configuration for PLC data.</p>
+        </article>
+        <article class="project-item">
+          <h3>Business Websites &amp; E‑commerce</h3>
+          <p>Responsive websites using WordPress/Bootstrap; Razorpay integration for payments; UI/UX customizations and performance optimizations.</p>
+        </article>
+      </section>
+
+      <section class="contact card">
+        <h2>Contact</h2>
+        <p>Phone: +91 90475 34179<br>
+        Email: <a href="mailto:pratheeshkumarvijayan@gmail.com">pratheeshkumarvijayan@gmail.com</a><br>
+        GitHub: <a href="https://github.com/PRATHEESHKUMAR1997" target="_blank">PRATHEESHKUMAR1997</a><br>
+        LinkedIn: <a href="https://www.linkedin.com/in/pratheesh-kumar-1905b02b5" target="_blank">pratheesh-kumar-1905b02b5</a></p>
+
+        <p><a href="resume.txt" download>Download resume (text)</a></p>
+
+        <form id="contactForm">
+          <label>
+            Name
+            <input type="text" name="name" required />
+          </label>
+          <label>
+            Email
+            <input type="email" name="email" required />
+          </label>
+          <label>
+            Message
+            <textarea name="message" rows="4" required></textarea>
+          </label>
+          <div class="form-actions">
+            <button type="submit">Send</button>
+          </div>
+        </form>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="container">
+        <p>© <span id="year"></span> Your Name — Built with HTML &amp; CSS</p>
+      </div>
+    </footer>
+
+    <script src="script.js"></script>
+  </body>
+</html>
